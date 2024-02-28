@@ -2,7 +2,7 @@
   "name": "Laravii",
   "displayName": "Laravii - Laravel Extension",
   "description": "Laravel Pack by Syahravi :))",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "syahravi",
   "engines": {
     "vscode": "^1.86.0"
@@ -36,7 +36,6 @@
     "vincaslt.highlight-matching-tag", 
     "vitabletech.snippetmaster", 
     "voldemortensen.rainbow-tags", 
-    "vscodevim.vim", 
     "wakatime.vscode-wakatime", 
     "wmaurer.change-case", 
     "yzhang.markdown-all-in-one",
