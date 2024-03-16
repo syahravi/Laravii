@@ -4,6 +4,7 @@
   "description": "Laravel Pack by Syahravi :))",
   "version": "0.1.5",
   "publisher": "syahravi",
+  "icon": "images/icon128x128.png",
   "engines": {
     "vscode": "^1.86.0"
   },
