@@ -1,8 +1,8 @@
 {
-  "name": "Laravii",
+  "name": "laravii",
   "displayName": "Laravii - Laravel Extension",
   "description": "Laravel Pack by Syahravi :))",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "publisher": "syahravi",
   "engines": {
     "vscode": "^1.86.0"
@@ -11,34 +11,22 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "aaron-bond.better-comments", 
-    "adpyke.codesnap", 
-    "alefragnani.bookmarks", 
-    "alefragnani.project-manager", 
     "bmewburn.vscode-intelephense-client", 
     "bradlc.vscode-tailwindcss", 
     "csstools.postcss", 
-    "daltonmenezes.aura-theme", 
     "devsense.intelli-php-vscode", 
     "devsense.phptools-vscode", 
-    "eamodio.gitlens", 
     "formulahendry.auto-rename-tag", 
     "ihunte.laravel-blade-wrapper", 
     "mintlify.document", 
-    "ms-vscode.wordcount", 
     "oderwat.indent-rainbow", 
-    "pkief.material-icon-theme", 
     "porifa.laravel-intelephense", 
-    "s-nlf-fh.glassit", 
-    "streetsidesoftware.code-spell-checker", 
-    "streetsidesoftware.code-spell-checker-indonesian", 
     "usernamehw.errorlens", 
     "vincaslt.highlight-matching-tag", 
     "vitabletech.snippetmaster", 
     "voldemortensen.rainbow-tags", 
-    "wakatime.vscode-wakatime", 
-    "wmaurer.change-case", 
-    "yzhang.markdown-all-in-one",
-    "cjhowe7.laravel-blade"
+    "cjhowe7.laravel-blade",
+    "ecmel.vscode-html-css",
+    "rifi2k.format-html-in-php"
   ]
 }
